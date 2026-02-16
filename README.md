@@ -89,11 +89,6 @@ http://localhost:8080
 
 ---
 
-## Lưu ý quan trọng
-
-- Không push các file nhạy cảm như `.env.local`
-- Không push `node_modules` lên GitHub
-- Không push thư mục `.idea` (cấu hình IDE)
 
 ---
 
